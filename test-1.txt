@@ -1,2 +1,2 @@
 Hi,
-We are learning GIT.
+We are learning GIT. we want to learn mlops and git is essential for this.
