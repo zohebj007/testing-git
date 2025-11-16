@@ -1,10 +1,6 @@
 Hi,
-<<<<<<< HEAD
-We are learning GIT.
-we are doin this changes for fetching result
-=======
 We are learning GIT. we want to learn mlops and git is essential for this.
 This is a prod branch, don't change anything related to configuration.
 
 thanks you
->>>>>>> prod
+
